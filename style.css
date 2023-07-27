@@ -1,0 +1,17 @@
+.top-nav-h{height: 2.5rem}
+.w-15{width: 15% !important;}
+
+input[type="search"]::placeholder{
+    color: white !important;
+}
+
+.bg-lviolet{
+    background-color: #5856d5 !important;
+}
+/*img{*/
+/*    transition: 0.1s ease;*/
+/*}*/
+
+/*img:hover{*/
+/*    transform: scale(1.01);*/
+/*}*/
